@@ -31,3 +31,16 @@ This lab is relevant to roles such as:
 - Junior Systems Administrator
 
 These roles often involve identity-related tasks such as account troubleshooting, access verification, password reset workflows, and escalation when admin rights or licensing limitations are involved.
+
+## Resume-Ready Skills
+
+This lab demonstrates hands-on experience with:
+
+- Microsoft Entra ID (Azure Active Directory)
+- User account management
+- Authentication troubleshooting
+- Multi-Factor Authentication (MFA)
+- Conditional Access policies
+- Sign-in log analysis
+
+The scenarios documented in this repository reflect real-world IT support workflows.
